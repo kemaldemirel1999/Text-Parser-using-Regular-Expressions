@@ -2,6 +2,7 @@
 Python script named preprocess_text.py that will clean (remove non-letter characters) text file in the given input text file. This program should read tweets.txt to preprocess text
 
 This program should read tweets.txt to preprocess text, the program should be run as:
+
 $ python preprocess_text.py
 
 The program must produce the output file preprocessed_tweets.txt. The program should read the input file line by line. The output should be consisting of only letters. Punctuation marks and numbers before and at the end of the word should be deleted.
